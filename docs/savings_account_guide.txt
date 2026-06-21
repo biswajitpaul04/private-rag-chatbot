@@ -1,0 +1,45 @@
+SAVINGS ACCOUNT PRODUCT GUIDE
+Meridian National Bank (sample / fictional)
+
+OVERVIEW
+The Meridian Everyday Savings Account is a deposit account designed for
+individual customers who want to set money aside while earning interest.
+It is a fictional product used here only for demonstration.
+
+ELIGIBILITY
+- Available to resident individuals aged 18 and above.
+- Minors aged 10 and above may open an account jointly with a guardian.
+- A valid government-issued identity document and address proof are required
+  to satisfy Know Your Customer (KYC) requirements.
+
+INTEREST
+- Interest rate: 3.50% per annum on balances up to 100,000 units.
+- Interest rate: 4.00% per annum on the portion of the balance above 100,000 units.
+- Interest is calculated on the daily closing balance and credited quarterly.
+
+MINIMUM BALANCE
+- Minimum average monthly balance: 5,000 units.
+- A service charge of 150 units applies in any month the average balance
+  falls below this minimum.
+
+FEES
+- Account opening: free.
+- Quarterly account statement: free (electronic).
+- Physical statement on request: 50 units per statement.
+- Replacement debit card: 200 units.
+
+DIGITAL ACCESS
+Customers can access the account through the Meridian mobile app and internet
+banking. Both channels support balance enquiry, fund transfers, bill payments,
+and statement downloads. Two-factor authentication is mandatory for all
+login sessions and for transactions above 10,000 units.
+
+NOMINATION
+Account holders are encouraged to register a nominee. Nomination can be done
+at account opening or later through any branch or the internet banking portal.
+
+CLOSURE
+An account may be closed by submitting a written request at the branch. Any
+accrued interest is paid up to the date of closure. Accounts inactive for more
+than 24 months are classified as dormant and require re-activation through KYC
+re-verification before further transactions are allowed.

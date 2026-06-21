@@ -1,0 +1,49 @@
+RETAIL LOAN PRODUCTS - FREQUENTLY ASKED QUESTIONS
+Meridian National Bank (sample / fictional)
+
+Q: What types of retail loans does the bank offer?
+A: The bank offers personal loans, home loans, vehicle loans, and education
+   loans. Each has its own eligibility criteria, interest range, and tenure.
+
+Q: What is the difference between a fixed and a floating interest rate?
+A: A fixed rate stays the same for the agreed period, so the monthly
+   instalment does not change. A floating rate moves with a reference
+   benchmark, so instalments can rise or fall over time.
+
+Q: How is a personal loan EMI calculated?
+A: The Equated Monthly Instalment (EMI) depends on three things: the loan
+   amount (principal), the interest rate, and the tenure in months. A longer
+   tenure lowers the monthly EMI but increases the total interest paid.
+
+PERSONAL LOAN
+- Amount: 50,000 to 2,000,000 units.
+- Interest: 10.5% to 16% per annum, depending on credit profile.
+- Tenure: 12 to 60 months.
+- Collateral: none (unsecured).
+
+HOME LOAN
+- Amount: up to 80% of property value.
+- Interest: 8.4% to 9.5% per annum (floating).
+- Tenure: up to 300 months.
+- Collateral: the financed property is mortgaged to the bank.
+
+VEHICLE LOAN
+- Amount: up to 85% of vehicle on-road price.
+- Interest: 9% to 12% per annum.
+- Tenure: 12 to 84 months.
+- Collateral: the vehicle is hypothecated to the bank.
+
+Q: What is a credit score and why does it matter?
+A: A credit score is a number summarizing a borrower's repayment history.
+   A higher score signals lower risk and generally leads to a better interest
+   rate and a higher chance of approval.
+
+Q: What happens if an EMI is missed?
+A: A late-payment fee applies and the missed payment is reported to the credit
+   bureau, which can lower the borrower's credit score. Persistent default may
+   lead to recovery action against any pledged collateral.
+
+Q: Can a loan be prepaid?
+A: Yes. Floating-rate home loans usually carry no prepayment charge. Fixed-rate
+   and personal loans may carry a prepayment fee of up to 2% of the outstanding
+   amount. Customers should check their specific loan agreement.

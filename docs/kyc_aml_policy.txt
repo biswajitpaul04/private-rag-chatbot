@@ -1,0 +1,48 @@
+KYC AND ANTI-MONEY-LAUNDERING POLICY SUMMARY
+Meridian National Bank (sample / fictional)
+
+PURPOSE
+This summary describes, in simplified form, how the bank verifies customer
+identity and monitors transactions to prevent money laundering and the
+financing of illicit activity. It is a fictional illustration for testing.
+
+CUSTOMER DUE DILIGENCE (CDD)
+Before opening any account, the bank collects and verifies:
+- Full legal name and date of birth.
+- A government-issued photo identity document.
+- Proof of current residential address.
+- The customer's stated purpose for the account and expected activity.
+
+RISK CATEGORIES
+Each customer is assigned a risk rating at onboarding:
+- Low risk: salaried individuals with stable, predictable activity.
+- Medium risk: self-employed customers and small businesses.
+- High risk: customers with complex ownership, high cash volumes, or links
+  to higher-risk jurisdictions. High-risk customers undergo Enhanced Due
+  Diligence (EDD) and more frequent review.
+
+ENHANCED DUE DILIGENCE (EDD)
+For high-risk customers the bank additionally collects source-of-funds
+documentation, identifies beneficial owners, and obtains senior management
+approval before onboarding.
+
+TRANSACTION MONITORING
+Automated systems screen transactions against expected behavior. Patterns
+that may trigger a review include:
+- Multiple cash deposits just below reporting thresholds (structuring).
+- Sudden high-value transfers inconsistent with the customer profile.
+- Funds quickly moved through the account with no clear economic purpose.
+
+REPORTING
+Transactions that appear suspicious are escalated internally to the compliance
+team, which decides whether to file a Suspicious Transaction Report (STR) with
+the relevant financial intelligence authority. Employees must not inform the
+customer that a report has been filed ("no tipping-off").
+
+RECORD RETENTION
+Customer identification records and transaction records are retained for a
+minimum of five years after the end of the relationship, in line with
+regulatory expectations.
+
+TRAINING
+All customer-facing staff complete annual AML training and an assessment.
